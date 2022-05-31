@@ -1,0 +1,76 @@
+body {
+    background-color: #FDF8F0;
+}
+
+/*title*/
+h1 {
+    position: absolute;
+    left: 60px;
+    margin: 5px;
+}
+
+/*sub title*/
+h4 {
+    position: absolute;
+    top: 55px;
+    left: 65px;
+}
+
+.container {
+    position: absolute;
+    top: 120px;
+    left: 50px;
+}
+
+
+img {
+    position: absolute;
+    width: 250px;
+    left: 760px;
+    top: 450px;
+    z-index: 10000;
+}
+
+/*small img on top*/
+#img_dog {
+    width: 150px;
+    top: 25px;
+    left: 750px
+}
+
+#verticle {
+    top: 110px;
+}
+
+#kitty2 {
+    position: fixed;
+    width: 230px;
+    left: 700px;
+
+}
+
+#kitty {
+    width: 70px;
+    left: 70%;
+    top: 60%;
+
+}
+
+/*button to change page*/
+.bar {
+    position: absolute;
+    width: 100px;
+    height: 22px;
+    top: 50px;
+    border-radius: 30px;
+    border: 3px solid #ccc;
+    z-index: 200000;
+    text-align: center;
+    padding: 10px;
+}
+
+a {
+    font-size: 15px;
+    text-decoration: none;
+    text-decoration-color: black;
+}
