@@ -478,7 +478,7 @@ nav ul li a {
 
 #portfolio #portfolio-flters li:hover,
 #portfolio #portfolio-flters li.filter-active {
-    color: #C2D1F7;
+    color: #000000;
 }
 
 #portfolio #portfolio-flters li:last-child {
@@ -526,7 +526,7 @@ nav ul li a {
 
 #portfolio .portfolio-item .portfolio-info .preview-link:hover,
 #portfolio .portfolio-item .portfolio-info .details-link:hover {
-    color: #C2D1F7;
+    color: #000000;
 }
 
 #portfolio .portfolio-item .portfolio-info .details-link {
