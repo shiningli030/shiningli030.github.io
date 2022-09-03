@@ -1,6 +1,3 @@
-### 計算機科學與編成入門第二次作業
-#### 2100921667 励湘宁
-
 ##### 登入介面（使用Bootstrap
 [work 1](https://shiningli030.github.io/0417work/0417work_1.html)
 
